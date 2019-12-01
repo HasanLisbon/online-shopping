@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="onlineshoppingfront:war">
+    <output-path>$PROJECT_DIR$/onlineshoppingfront/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>onlineshoppingfront</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="onlineshoppingfront.war">
+      <element id="artifact" artifact-name="onlineshoppingfront:war exploded" />
+    </root>
+  </artifact>
+</component>

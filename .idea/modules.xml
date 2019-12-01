@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/online-shopping.iml" filepath="$PROJECT_DIR$/.idea/online-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlineshoppingback/onlineshoppingback.iml" filepath="$PROJECT_DIR$/onlineshoppingback/onlineshoppingback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlineshoppingfront/onlineshoppingfront.iml" filepath="$PROJECT_DIR$/onlineshoppingfront/onlineshoppingfront.iml" />
+    </modules>
+  </component>
+</project>
